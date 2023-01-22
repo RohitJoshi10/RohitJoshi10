@@ -1,8 +1,10 @@
+![MasterHead](https://img.freepik.com/free-vector/flat-hand-drawn-web-developers_23-2148828087.jpg?w=1380&t=st=1674413171~exp=1674413771~hmac=376bdc77be639a59613ccc88cb9c35143f4c000adb4738b9f1b91229e9ff9967)
+
 <h1 align="center">Hi 👋, I'm Rohit Joshi</h1>
-<h3 align="center"><em>Hi, I’m Rohit Joshi, a Computer Science Engineer by Education and a Defence Lover from the heart. I love exploring new things, such as new technology or reading books and talking with friends. I love exploring different programming languages, so I have got my hands dirty with many languages that excite me, and I look forward to learning more. I love exploring new domains and learning new technologies. Oh, did I say I'm also a Social Media Marketer, A Defence Lover and Cricket/Basketball as my favourite sport? And wait I also like Public Speaking :-)<em></h3>
+<h3 align="center"> Hi, I’m Rohit Joshi, a Computer Science Engineer by Education and a Defence Lover from the heart. I love exploring new things, such as new technology or reading books and talking with friends. I love exploring different programming languages, so I have got my hands dirty with many languages that excite me, and I look forward to learning more. I love exploring new domains and learning new technologies. Oh, did I say I'm also a Social Media Marketer, A Defence Lover and Cricket/Basketball as my favourite sport? And wait I also like Public Speaking :-)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitjoshi10&label=Profile%20views&color=0e75b6&style=flat" alt="rohitjoshi10" /> </p>
-<img align="right" alt="Coding" width="400" src="https://pin.it/2nC4JAk">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 - 🔭 I’m currently working on **Chat App which Uses MERN Stack**
 
