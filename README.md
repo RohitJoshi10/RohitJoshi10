@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36d1dc&height=220&section=header&text=Hi%20There,%20I'm%20Rohit%20Joshi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Defence%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18,24&height=230&section=header&text=Hi%20There,%20I'm%20Rohit%20Joshi%20👋&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineer%20|%20Full%20Stack%20Developer%20|%20Defence%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%28Spring+Boot%29;Frontend+Developer+%28React.js%29;App+Developer+%28Flutter%29;Public+Speaker+%F0%9F%8E%99%EF%B8%8F;Cricket+%26+Basketball+Fan+%F0%9F%8F%80;I+hate+ML+xdxd&font=Fira%20Code&center=true&width=560&height=45&duration=3000&pause=800&color=0E75B6&vCenter=true&size=22" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ### 🧭 About Me
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
 name: Rohit Joshi
@@ -22,7 +22,6 @@ role: Computer Science Engineer
 passions:
   - Exploring new programming languages & tech
   - Reading books & meaningful conversations
-  - Social Media Marketing
   - Defence & Public Speaking
   - Cricket 🏏 & Basketball 🏀
 currently_building: Microservice Based Event-Driven Project
@@ -72,6 +71,110 @@ reach_me: rohit11joshi10@gmail.com
 
 ---
 
+### 🧊 3D Contribution Graph
+
+<div align="center">
+
+<!-- 3d-contrib-start -->
+<img src="https://raw.githubusercontent.com/rohitjoshi10/rohitjoshi10/output/github-contribution-grid-snake-dark.svg" width="90%" alt="3D contribution graph"/>
+<!-- 3d-contrib-end -->
+
+</div>
+
+> This animated 3D bar-chart of your real commit history renders once you add the tiny GitHub Action below to this repo (one-time setup, ~2 minutes).
+
+<details>
+<summary>⚙️ Click to see the setup (3D contribution graph)</summary>
+
+Create `.github/workflows/profile-3d-contrib.yml` in your `rohitjoshi10/rohitjoshi10` repo:
+
+```yaml
+name: 3D Profile Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: rohitjoshi10
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add -A
+          git commit -m "Update 3D contribution graph" || exit 0
+          git push
+```
+
+After the first run, this generates rotating isometric 3D bars (day/night themed) under `profile-3d-contrib/` — link those images in the section above.
+
+</details>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<!-- snake-start -->
+<img src="https://raw.githubusercontent.com/rohitjoshi10/rohitjoshi10/output/github-contribution-grid-snake.svg" width="90%" alt="Snake animation eating contribution graph"/>
+<!-- snake-end -->
+
+</div>
+
+<details>
+<summary>⚙️ Click to see the setup (snake game animation)</summary>
+
+Create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate snake game
+        uses: Platane/snk@v3
+        with:
+          github_user_name: rohitjoshi10
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+A little snake literally eats through your green squares — one of the most popular "animated" README effects on GitHub.
+
+</details>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -90,7 +193,7 @@ reach_me: rohit11joshi10@gmail.com
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rohitjoshi10&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohitjoshi10&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -99,6 +202,6 @@ reach_me: rohit11joshi10@gmail.com
 
 💡 *"Curiosity is the compass that points toward growth."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:0e75b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,18,24&height=120&section=footer" width="100%"/>
 
 </div>
