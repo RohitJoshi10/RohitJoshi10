@@ -76,7 +76,7 @@ reach_me: rohit11joshi10@gmail.com
 <div align="center">
 
 <!-- 3d-contrib-start -->
-<img src="https://raw.githubusercontent.com/rohitjoshi10/rohitjoshi10/output/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/RohitJoshi10/RohitJoshi10/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D contribution graph"/>
 <!-- 3d-contrib-end -->
 
 </div>
